@@ -1,0 +1,31 @@
+trip_id,passenger_id,driver_id,pickup_location,drop_location,distance_km,fare,trip_date,status
+T001,P101,D201,Gandhipuram,RS Puram,5.2,180,2026-09-01,Completed
+T002,P102,D202,Peelamedu,Gandhipuram,7.5,250,2026-09-01,Completed
+T003,P103,D201,Saibaba Colony,Gandhipuram,4.8,160,2026-09-02,Completed
+T004,P104,D203,Gandhipuram,Peelamedu,8.2,280,2026-09-02,Completed
+T005,P105,D202,RS Puram,Saibaba Colony,3.5,130,2026-09-03,Cancelled
+T006,P106,D204,Peelamedu,Gandhipuram,6.7,220,2026-09-03,Completed
+T007,P107,D201,Gandhipuram,Airport,11.5,400,2026-09-04,Completed
+T008,P108,D203,Airport,Peelamedu,12.1,430,2026-09-04,Completed
+T009,P109,D202,Saibaba Colony,RS Puram,4.2,150,2026-09-05,Completed
+T010,P110,D204,RS Puram,Gandhipuram,5.9,200,2026-09-05,Cancelled
+T011,P111,D201,Peelamedu,Airport,10.8,380,2026-09-06,Completed
+T012,P112,D203,Gandhipuram,Saibaba Colony,5.1,175,2026-09-06,Completed
+T013,P113,D202,Airport,Gandhipuram,13.2,460,2026-09-07,Completed
+T014,P114,D204,RS Puram,Peelamedu,6.4,230,2026-09-07,Completed
+T015,P115,D201,Saibaba Colony,Airport,9.7,350,2026-09-08,Completed
+T016,P116,D205,Gandhipuram,Airport,10.5,390,2026-09-08,Completed
+T017,P117,D203,Peelamedu,RS Puram,6.1,210,2026-09-09,Completed
+T018,P118,D205,RS Puram,Gandhipuram,5.6,195,2026-09-09,Completed
+T019,P119,D202,Airport,Saibaba Colony,14.0,480,2026-09-10,Completed
+T020,P120,D204,Gandhipuram,Peelamedu,8.0,275,2026-09-10,Cancelled
+T021,P121,D201,Peelamedu,Gandhipuram,7.2,245,2026-09-11,Completed
+T022,P122,D205,Saibaba Colony,RS Puram,4.5,155,2026-09-11,Completed
+T023,P123,D203,Gandhipuram,Airport,11.8,410,2026-09-12,Completed
+T024,P124,D204,Airport,Gandhipuram,12.7,445,2026-09-12,Completed
+T025,P125,D202,RS Puram,Peelamedu,6.8,235,2026-09-13,Completed
+T026,P126,D205,Peelamedu,Saibaba Colony,5.4,185,2026-09-13,Completed
+T027,P127,D201,Gandhipuram,RS Puram,5.0,175,2026-09-14,Completed
+T028,P128,D203,Saibaba Colony,Airport,9.9,360,2026-09-14,Completed
+T029,P129,D204,RS Puram,Gandhipuram,5.7,198,2026-09-15,Cancelled
+T030,P130,D205,Airport,Peelamedu,12.4,425,2026-09-15,Completed
